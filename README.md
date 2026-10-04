@@ -1,22 +1,21 @@
-# Zhvillmi-i-lojerave-Grupi8
-# 2048 Game
+# Zhvillimi i Lojërave – Grupi 8
 
-## Team Members
+## 🎮 Loja 2048
 
-- Aldrinë Feka
-- Florentë Gashi
-- Rinora Visoka
+### Anëtarët e ekipit
 
-## Project Description
+* Aldrinë Feka
+* Florentë Gashi
+* Rinora Visoka
 
-2048 is a puzzle game in which the player combines numbered tiles
-to reach the tile 2048.
+### Përshkrimi i projektit
 
-## Project Goal
+2048 është një lojë puzzle në të cilën lojtari bashkon pllaka me numra të njëjtë, me qëllim që të krijojë pllakën me numrin 2048.
 
-The goal of the project is to develop a functional version of
-the 2048 game and implement its core game logic.
+### Qëllimi i projektit
 
-## Current Status
+Qëllimi i projektit është zhvillimi i një versioni funksional të lojës 2048 dhe implementimi i logjikës kryesore të lojës.
 
-Week 2 - Project selection and initial planning.
+### Statusi aktual
+
+Java 2 – Përzgjedhja e projektit dhe planifikimi fillestar.
