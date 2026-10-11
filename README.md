@@ -19,3 +19,9 @@ Qëllimi i projektit është zhvillimi i një versioni funksional të lojës 204
 ### Statusi aktual
 
 Java 2 – Përzgjedhja e projektit dhe planifikimi fillestar.
+
+Në këtë fazë është zgjedhur loja 2048, janë përcaktuar mekanikat kryesore, rregullat, qëllimi i lojtarit, komponenti logjik/algoritmik dhe MVP-ja fillestare.
+
+Java 3 – Lojërat dhe shoqëria.
+
+Në këtë fazë është përcaktuar lojtari i synuar, profili i lojtarit, konteksti i përdorimit, motivimi, Player Stories dhe rreziqet e përvojës së lojtarit.
