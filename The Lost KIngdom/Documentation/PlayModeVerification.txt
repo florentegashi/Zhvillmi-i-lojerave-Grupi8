@@ -1,0 +1,29 @@
+PASS: Saved scene starts at main menu
+PASS: Serialized Settings button works
+PASS: Serialized Back button works
+PASS: Serialized Play button starts gameplay
+PASS: Input System WASD moves CharacterController (distance=2.402714, position=(0.00, 0.11, 2.40), enabled=True)
+PASS: Shift sprint is faster than walking
+PASS: Space jumps from ground
+PASS: Gravity returns Aren to ground
+PASS: Pause freezes player and game time
+PASS: Resume restores gameplay
+PASS: Gate rejects interaction before five fragments
+PASS: Closed gate physically blocks CharacterController
+PASS: Scene contains exactly five fragments
+PASS: Physics trigger collects fragment 1 exactly once
+PASS: Physics trigger collects fragment 2 exactly once
+PASS: Physics trigger collects fragment 3 exactly once
+PASS: Physics trigger collects fragment 4 exactly once
+PASS: Physics trigger collects fragment 5 exactly once
+PASS: HUD updates to five fragments
+PASS: Gate proximity shows interaction prompt
+PASS: E animates and opens gate
+PASS: Open gate permits physical passage
+PASS: Crystal proximity shows prompt
+PASS: E collects first crystal and starts restoration
+PASS: Four-second restoration reaches completion screen
+PASS: Forest lighting, fog and wisps restore
+PASS: Restart resets progression and gate
+PASS: Restart restores cursed forest state
+PASS: Main Menu reload resets time and menu state
